@@ -19,6 +19,8 @@ Depuis 2014 Laurent Dupont est directeur de la Compagnie ACTA et il crée « L�
 * A well-known company, in France and abroad, that grants a positive image of the city and the department.
 * A place of reference, of creation and support for companies from Val d’Oise and anywhere else that perform for a young or a very young public.
 
+![Une compagnie conventionnée](/img/sjs-équipe-fleurs-1038x576.jpg)
+
 ### **Une compagnie conventionnée**
 
 Des soutiens indispensables pour bâtir des projets à long terme sur le département.
