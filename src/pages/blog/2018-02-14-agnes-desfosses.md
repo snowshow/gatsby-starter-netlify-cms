@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /agnes-desfosses
-title: Agnes Desfosses
+title: Agnes DESFOSSES
 date: 2018-02-14T20:10:08.377Z
 description: 'Photographe, metteure en scène, auteure'
 ---
