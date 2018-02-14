@@ -6,7 +6,9 @@ date: 2018-02-14T20:10:08.377Z
 description: 'Photographe, metteure en scène, auteure'
 ---
 ![Agnes Desfosses](/img/1280x720-bt0.jpg)
+
 ## **Photographe, metteure en scène, auteure**
+
 ## **Directrice artistique de la compagnie ACTA**
 
 Née à Paris, Agnès Desfosses fait du théâtre de rue, co-dirige la Compagnie Vague et Terre de 1980 à 1989, puis assume la direction artistique de la Compagnie ACTA – Agnès DESFOSSES depuis 1990.
@@ -24,6 +26,8 @@ Aujourd’hui ces formations sont ouvertes aux parents, aux politiques, etc. pou
 La 8ème édition des PREMIERES RENCONTRES aura lieu au printemps 2018. Environ 9000 spectateurs assistent tous les deux ans à une centaine de représentations de spectacles français et étrangers, accueillies dans 17 communes du Val d’Oise.
 
 Son parcours photographique a abouti à de nombreuses expositions, dont certaines sous forme de parcours théâtralisés mêlant photographie, son et arts plastiques :
+
+![Laurent DUPONT](/img/sjs-équipe-fleurs-1038x576.jpg)
 
 Sur le thème de l’exil : « Visages d’aujourd’hui, paysages d’hier » – « Venues d’ailleurs ».
 
